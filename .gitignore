@@ -2,3 +2,5 @@ Negative/
 Positive/
 
 *.zip
+
+.ipynb_checkpoints/
